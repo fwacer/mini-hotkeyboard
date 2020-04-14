@@ -11,3 +11,10 @@ Functional layout:
 | 1 | Caps Lock (switch) | Change style to “Normal” (button in knob) | Volume mute (button in knob) | Types “asdf” (switch) | -- |
 | 2 | Increase font size | Paragraph indent | Change style to “Heading 1” | Change style to “Heading 2” | Change style to “Heading 3” |
 | 3 | Decrease font size | Remove paragraph indent | Bullet point | En dash | Em dash |
+
+Some more photos:
+
+![Unlit keypad](https://github.com/fwacer/mini-hotkeyboard/blob/master/Media/unlit.jpg)
+![Lit keypad](https://github.com/fwacer/mini-hotkeyboard/blob/master/Media/lit.jpg)
+![Isometric view of interior](https://github.com/fwacer/mini-hotkeyboard/blob/master/Media/isometric_inside.jpg)
+![Top view of interior](https://github.com/fwacer/mini-hotkeyboard/blob/master/Media/top_inside.jpg)
